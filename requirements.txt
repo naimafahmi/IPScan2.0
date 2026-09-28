@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+matplotlib
+pysam
+tomli; python_version < "3.11"
+pytest

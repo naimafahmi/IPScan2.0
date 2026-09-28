@@ -1,0 +1,10 @@
+# IPScan run configuration. CLI arguments override these values.
+mode = "single"
+species = "hg38"
+input_dir1 = "test_data"
+# input_dir2 = "data/group2" # Required only for differential mode.
+annotation = "/absolute/path/to/human_hg38_refGene.tsv"
+output_dir = "output"
+log_dir = "logs"
+# three_prime_dir = "data/three_prime_bams"
+peptides = false

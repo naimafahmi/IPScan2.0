@@ -1,0 +1,20 @@
+2026-09-17 15:17:36,080 - INFO - Beginning IPScan run
+2026-09-17 15:17:36,080 - INFO - Mode: single
+2026-09-17 15:17:36,080 - INFO - Group 1: 2 sample(s)
+2026-09-17 15:17:36,395 - INFO - Creating the chromosome dictionary...
+2026-09-17 15:17:51,987 - INFO - Chromosome dictionary created in 15.59 seconds
+2026-09-17 15:17:51,988 - INFO - Merging the Exon intervals...
+2026-09-17 15:17:52,075 - INFO - Exon intervals merged in 0.09 seconds
+2026-09-17 15:17:52,503 - INFO - Processing sample: test_data/sample1.bam
+2026-09-17 15:17:52,503 - INFO - ----------------------------------------------------------------
+2026-09-17 15:17:52,503 - INFO - | STEP 1: Detecting IPA events for sample: sample1...                                  |
+2026-09-17 15:17:52,503 - INFO - ----------------------------------------------------------------
+2026-09-17 15:17:52,504 - INFO - Using existing chromosome coverage tables
+2026-09-17 15:17:52,636 - INFO - IPA sites detected in 0.13 seconds
+2026-09-17 15:17:52,656 - INFO - Processing sample: test_data/sample2.bam
+2026-09-17 15:17:52,657 - INFO - ----------------------------------------------------------------
+2026-09-17 15:17:52,657 - INFO - | STEP 1: Detecting IPA events for sample: sample2...                                  |
+2026-09-17 15:17:52,657 - INFO - ----------------------------------------------------------------
+2026-09-17 15:17:52,657 - INFO - Using existing chromosome coverage tables
+2026-09-17 15:17:52,794 - INFO - IPA sites detected in 0.14 seconds
+2026-09-17 15:17:52,828 - INFO - IPScan completed in 16.75 seconds

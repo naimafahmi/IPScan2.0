@@ -1,0 +1,12 @@
+2026-09-17 14:59:15,953 - INFO - Beginning IPScan run
+2026-09-17 14:59:15,953 - INFO - Mode: single
+2026-09-17 14:59:15,953 - INFO - Sample 1: test_data/sample1.bam
+2026-09-17 14:59:15,953 - INFO - ----------------------------------------------------------------
+2026-09-17 14:59:15,953 - INFO - | STEP 1: Detecting IPA events for sample: sample1...                                  |
+2026-09-17 14:59:15,953 - INFO - ----------------------------------------------------------------
+2026-09-17 14:59:16,766 - INFO - Creating the chromosome dictionary...
+2026-09-17 14:59:32,283 - INFO - Chromosome dictionary created in 15.52 seconds
+2026-09-17 14:59:32,283 - INFO - Merging the Exon intervals...
+2026-09-17 14:59:32,372 - INFO - Exon intervals merged in 0.09 seconds
+2026-09-17 14:59:32,862 - INFO - IPA sites detected in 0.58 seconds
+2026-09-17 14:59:32,916 - INFO - IPScan completed in 16.96 seconds
